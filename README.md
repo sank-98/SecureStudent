@@ -1,7 +1,6 @@
-Detailed project description
 Project name: SecureStudent
 Description: SecureStudent is a comprehensive system designed to protect student data through advanced encryption, access control, and compliance management.
-Key features:
+\Key features:
 Secure data storage:
 Encrypted database for student records
 Separate encryption for sensitive data (SSN, financial information)
